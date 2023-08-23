@@ -1,0 +1,30 @@
+{
+  "name": "rango-token-list",
+  "version": "0.1.0",
+  "description": "Rango Community Token List",
+  "main": "index.js",
+  "repository": "git@github.com:rango-exchange/rango-token-list.git",
+  "author": "RanGojo <rangojo@rango.exchange>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "eslint": "eslint tokens/* --ext .json --fix",
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "**.{json}": [
+      "prettier --write ."
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "eslint-plugin-json": "^3.1.0",
+    "lint-staged": "^13.2.2",
+    "husky": "^8.0.0",
+    "prettier": "^2.7.1",
+    "eslint-plugin-prettier": "^4.2.1"
+  },
+  "dependencies": {
+    "husky-init": "^8.0.0"
+  }
+}

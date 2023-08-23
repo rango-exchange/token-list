@@ -1,9 +1,9 @@
-{
-    "tokens": [{
-        "name": "Flash 3.0",
-        "symbol": "FLASH",
-        "address": "0xBb19DA2482308ec02a242ACED4Fe0f09D06b12A7",
-        "chainId": 1,
-        "decimals": 18
-    }]
-}
+[
+  {
+    "name": "Flash 3.0",
+    "symbol": "FLASH",
+    "address": "0xBb19DA2482308ec02a242ACED4Fe0f09D06b12A7",
+    "chainId": 1,
+    "decimals": 18
+  }
+]
