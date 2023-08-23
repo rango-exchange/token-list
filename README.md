@@ -28,7 +28,7 @@ In order to include your token on Rango Exchange as a custom token, you are requ
 
 ---
 
-<details open>
+<details>
 <summary><h2 style='display: inline; font-size: 24px'>How to add a token list to Rango?</h2></summary>
 
 You need to add this token list to `all-token-lists.json` file.
