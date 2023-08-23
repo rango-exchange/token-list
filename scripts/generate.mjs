@@ -19,8 +19,11 @@ for (let i = 0; i < projectsList.length; i++) {
   projects.push(projectTokens);
 }
 
-template["tokens"] = projects;
+template["tokens"] = projects
+  .flat()
+  .sort((t1, t2) => (t1.chainId > t2.chainId ? 1 : -1));
 template["timestamp"] = new Date();
+
 fs.writeFileSync(
   "./dest/rango-custom-tokens.json",
   JSON.stringify(template, undefined, 2)
