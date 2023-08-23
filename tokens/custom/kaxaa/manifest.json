@@ -1,0 +1,9 @@
+{
+    "tokens": [{
+        "name": "KAXAA",
+        "symbol": "KAX",
+        "address": "0x42aF7aAc6AE6425Ffa96370cFD0B12522Aa4b458",
+        "chainId": 137,
+        "decimals": 18
+    }]
+}

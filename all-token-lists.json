@@ -1,0 +1,72 @@
+{
+    "EVM": [
+        {
+            "name": "Gemini Token List",
+            "uri": "https://www.gemini.com/uniswap/manifest.json"
+        },
+        {
+            "name": "Aave Token List",
+            "uri": "https://tokenlist-aave-eth.ipns.dweb.link"
+        },
+        {
+            "name": "CoinGecko",
+            "uri": "https://tokens.coingecko.com/uniswap/all.json"
+        },
+        {
+            "name": "Zerion",
+            "uri": "https://tokenlist-zerion-eth.ipns.dweb.link"
+        },
+        {
+            "name": "Kleros Tokens", 
+            "uri": "https://t2crtokens-eth.ipns.dweb.link"
+        },
+        {
+            "name": "Superchain Token List", 
+            "uri": "https://static.optimism.io/optimism.tokenlist.json"
+        },
+        {
+            "name": "Pangolin Tokenlist", 
+            "uri": "https://raw.githubusercontent.com/pangolindex/tokenlists/main/pangolin.tokenlist.json"
+        },
+        {
+            "name": "Trader Joe Default", 
+            "uri": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/mc.tokenlist.json"
+        },
+        {
+            "name": "ParaSwap Community Stablecoin Lists", 
+            "uri": "https://raw.githubusercontent.com/paraswap/community-token-list/master/src/sources/paraswap.stablelist.json"
+        },
+        {
+            "name": "Quickswap Token List", 
+            "uri": "https://unpkg.com/quickswap-default-token-list@latest/build/quickswap-default.tokenlist.json"
+        },
+        {
+            "name": "Uniswap Labs Default", 
+            "uri": "https://gateway.ipfs.io/ipns/tokens.uniswap.org"
+        },
+        {
+            "name": "Arb Whitelist Era", 
+            "uri": "https://bridge.arbitrum.io/token-list-42161.json"
+        },
+        {
+            "name": "Venomswap Default", 
+            "uri": "https://raw.githubusercontent.com/VenomProtocol/venomswap-default-token-list/main/build/venomswap-default.tokenlist.json"
+        },
+        {
+            "name": "Venomswap Community", 
+            "uri": "https://raw.githubusercontent.com/VenomProtocol/venomswap-community-token-list/main/build/venomswap-community.tokenlist.json"
+        },
+        {
+            "name": "cherryswap", 
+            "uri": "https://www.cherryswap.net/swapimages/json/t3/cherryswap.json"
+        },
+        {
+            "name": "Voltage Swap List", 
+            "uri": "https://raw.githubusercontent.com/voltfinance/swap-default-token-list/master/build/voltage-swap-default.tokenlist.json"
+        },
+        {
+            "name": "Solana Token List", 
+            "uri": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/src/tokens/solana.tokenlist.json"
+        }
+    ]   
+}
