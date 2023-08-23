@@ -1,0 +1,39 @@
+name: Publish
+on:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  publish:
+    if: |
+      !contains(github.event.head_commit.message, 'release token list')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: main
+          token: ${{ secrets.PAT }}
+
+      - name: Setup NodeJS
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+
+      - name: Set Git Config
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Bump version and create commit
+        run: |
+          npm run generate-token-list
+          git commit -am "chore: release token list"
+          git push
