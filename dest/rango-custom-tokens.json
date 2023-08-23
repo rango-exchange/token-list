@@ -1,0 +1,80 @@
+{
+  "name": "Rango Custom Token List",
+  "logoURI": "",
+  "keywords": ["rango", "list"],
+  "timestamp": "2023-08-23T12:15:28.176Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  },
+  "tags": {},
+  "tokens": [
+    [
+      {
+        "name": "BIFI",
+        "address": "0x4e720dd3ac5cfe1e1fbde4935f386bb1c66f4642",
+        "symbol": "BIFI",
+        "decimals": 18,
+        "chainId": 10,
+        "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/bifi/icon.png"
+      }
+    ],
+    [
+      {
+        "name": "Flash 3.0",
+        "symbol": "FLASH",
+        "address": "0xBb19DA2482308ec02a242ACED4Fe0f09D06b12A7",
+        "chainId": 1,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/flash/icon.png"
+      }
+    ],
+    [
+      {
+        "name": "Godzilla Project Token",
+        "symbol": "GODZ",
+        "address": "0xae7cf30e14e132e43689ebe4fab49706c59a0bf7",
+        "chainId": 56,
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/godzilla/icon.png"
+      }
+    ],
+    [
+      {
+        "name": "KAXAA",
+        "symbol": "KAX",
+        "address": "0x42aF7aAc6AE6425Ffa96370cFD0B12522Aa4b458",
+        "chainId": 137,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/kaxaa/icon.png"
+      }
+    ],
+    [
+      {
+        "name": "Rocket Vault RocketX",
+        "symbol": "RVF",
+        "address": "0xdc8aF07A7861bedD104B8093Ae3e9376fc8596D2",
+        "chainId": 1,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/rocketx/icon.png"
+      },
+      {
+        "name": "Rocket Vault RocketX",
+        "symbol": "RVF",
+        "address": "0x872a34Ebb2d54Af86827810EeBC7b9dC6B2144aA",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/rocketx/icon.png"
+      },
+      {
+        "name": "Rocket Vault RocketX",
+        "symbol": "RVF",
+        "address": "0x2CE13E4199443FDfFF531ABb30c9B6594446bbC7",
+        "chainId": 137,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/rocketx/icon.png"
+      }
+    ]
+  ]
+}

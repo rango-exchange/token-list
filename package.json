@@ -6,10 +6,14 @@
   "repository": "git@github.com:rango-exchange/rango-token-list.git",
   "author": "RanGojo <rangojo@rango.exchange>",
   "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
   "private": true,
   "scripts": {
     "eslint": "eslint tokens/* --ext .json --fix",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "generate-token-list": "node ./scripts/generate.mjs"
   },
   "lint-staged": {
     "**.{json}": [
@@ -19,12 +23,12 @@
   "devDependencies": {
     "eslint": "^8.9.0",
     "eslint-plugin-json": "^3.1.0",
-    "lint-staged": "^13.2.2",
+    "eslint-plugin-prettier": "^4.2.1",
     "husky": "^8.0.0",
+    "lint-staged": "^13.2.2",
     "prettier": "^2.7.1",
-    "eslint-plugin-prettier": "^4.2.1"
-  },
-  "dependencies": {
+    "glob": "^10.3.3",
     "husky-init": "^8.0.0"
-  }
+  },
+  "dependencies": {}
 }

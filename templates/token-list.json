@@ -1,0 +1,13 @@
+{
+  "name": "Rango Custom Token List",
+  "logoURI": "",
+  "keywords": ["rango", "list"],
+  "timestamp": "2023-08-23T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  },
+  "tags": {},
+  "tokens": []
+}

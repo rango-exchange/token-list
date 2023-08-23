@@ -20,7 +20,7 @@ In order to include your token on Rango Exchange as a custom token, you are requ
    git checkout <branch_name>
    ```
 
-3. Create a directory within `tokens/custom/` using your token's name. Inside this directory, include a 256x256 SVG/PNG icon, along with the token's manifest.
+3. Create a directory within `tokens/custom/` using your token's name. Inside this directory, include a 256x256 PNG icon, along with the token's manifest.
 
 4. Submit the Pull Request. Within the _PR description_, kindly provide an explanation regarding **the DEXes/Bridges that your token is supported by**, considering Rango's integration. You could find list of all supported protocols [here](https://docs.rango.exchange/integrations).
 
