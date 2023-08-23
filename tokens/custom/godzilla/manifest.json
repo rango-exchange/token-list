@@ -1,0 +1,9 @@
+{
+    "tokens": [{
+        "name": "Godzilla Project Token",
+        "symbol": "GODZ",
+        "address": "0xae7cf30e14e132e43689ebe4fab49706c59a0bf7",
+        "chainId": 56,
+        "decimals": 9
+    }]
+}
