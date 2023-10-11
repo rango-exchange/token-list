@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2023-08-23T12:46:53.460Z",
+  "timestamp": "2023-10-11T08:41:16.563Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -10,6 +10,14 @@
   },
   "tags": {},
   "tokens": [
+    {
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "address": "0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/xcn/icon.png"
+    },
     {
       "name": "Rocket Vault RocketX",
       "symbol": "RVF",
@@ -33,6 +41,14 @@
       "decimals": 18,
       "chainId": 10,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/bifi/icon.png"
+    },
+    {
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "address": "0x7324c7C0d95CEBC73eEa7E85CbAac0dBdf88a05b",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/xcn/icon.png"
     },
     {
       "name": "Rocket Vault RocketX",
