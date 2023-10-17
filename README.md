@@ -14,8 +14,8 @@ In order to include your token on Rango Exchange as a custom token, you are requ
 2. Clone fork and create new branch:
 
    ```shell
-   git clone git@github.com:YOUR_ACCOUNT/rango-token-list.git
-   cd rango-token-list
+   git clone git@github.com:YOUR_ACCOUNT/token-list.git
+   cd token-list
    git branch <branch_name>
    git checkout <branch_name>
    ```
@@ -38,8 +38,8 @@ You need to add this token list to `all-token-lists.json` file.
 2. Clone fork and create new branch
 
    ```shell
-   git clone git@github.com:YOUR_ACCOUNT/rango-token-list.git
-   cd rango-token-list
+   git clone git@github.com:YOUR_ACCOUNT/token-list.git
+   cd token-list
    git branch <branch_name>
    git checkout <branch_name>
    ```
