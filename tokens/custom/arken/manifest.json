@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Arken Finance",
+    "symbol": "ARKEN",
+    "address": "0xAf5db6E1CC585ca312E8c8F7c499033590cf5C98",
+    "chainId": 42161,
+    "decimals": 18
+  },
+  {
+    "name": "Arken Finance",
+    "symbol": "ARKEN",
+    "address": "0x1d4268a58ee7ec2cc2af5d70a2fd2b3a896527a2",
+    "chainId": 56,
+    "decimals": 18
+  },
+  {
+    "name": "Arken Finance",
+    "symbol": "ARKEN",
+    "address": "0x9d8E53A1DBF92f4ECd0Fd7EE4DaDfAa1EFC813C0",
+    "chainId": 88,
+    "decimals": 18
+  }
+]
