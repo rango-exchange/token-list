@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2023-10-17T08:47:53.269Z",
+  "timestamp": "2023-11-04T08:18:49.247Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -67,6 +67,22 @@
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/godzilla/icon.png"
     },
     {
+      "name": "Arken Finance",
+      "symbol": "ARKEN",
+      "address": "0x1d4268a58ee7ec2cc2af5d70a2fd2b3a896527a2",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/arken/icon.png"
+    },
+    {
+      "name": "Arken Finance",
+      "symbol": "ARKEN",
+      "address": "0x9d8E53A1DBF92f4ECd0Fd7EE4DaDfAa1EFC813C0",
+      "chainId": 88,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/arken/icon.png"
+    },
+    {
       "name": "Rocket Vault RocketX",
       "symbol": "RVF",
       "address": "0x2CE13E4199443FDfFF531ABb30c9B6594446bbC7",
@@ -81,6 +97,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/kaxaa/icon.png"
+    },
+    {
+      "name": "Arken Finance",
+      "symbol": "ARKEN",
+      "address": "0xAf5db6E1CC585ca312E8c8F7c499033590cf5C98",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/arken/icon.png"
     }
   ]
 }
