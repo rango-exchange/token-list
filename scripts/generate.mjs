@@ -1,11 +1,11 @@
 import fs from "fs";
 
-const customTokensDir = "./tokens/custom/";
+const customTokensDir = "../tokens/custom/";
 const logoBaseURI =
   "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom";
 
 const projectsList = fs.readdirSync(customTokensDir);
-const template = JSON.parse(fs.readFileSync("./templates/token-list.json"));
+const template = JSON.parse(fs.readFileSync("../templates/token-list.json"));
 
 const projects = [];
 for (let i = 0; i < projectsList.length; i++) {
@@ -14,7 +14,15 @@ for (let i = 0; i < projectsList.length; i++) {
     fs.readFileSync(`${customTokensDir}${projectName}/manifest.json`)
   );
   for (const token of projectTokens) {
-    token["logoURI"] = `${logoBaseURI}/${projectName}/icon.png`;
+    
+    // USDFI and STABLE as SVG icons.
+    if (token.symbol == "STABLE" || token.symbol == "USDFI"){
+      token["logoURI"] = `${logoBaseURI}/${projectName}/icon.svg`;
+    }
+
+    // PNG icons
+    else token["logoURI"] = `${logoBaseURI}/${projectName}/icon.png`;
+    
   }
   projects.push(projectTokens);
 }
@@ -25,6 +33,6 @@ template["tokens"] = projects
 template["timestamp"] = new Date();
 
 fs.writeFileSync(
-  "./dest/rango-custom-tokens.json",
+  "../dest/rango-custom-tokens.json",
   JSON.stringify(template, undefined, 2)
 );
