@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2024-01-03T08:16:04.087Z",
+  "timestamp": "2024-01-03T08:18:30.192Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -113,6 +113,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/kaxaa/icon.png"
+    },
+    {
+      "name": "zkSwap Finance",
+      "address": "0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A",
+      "symbol": "ZF",
+      "decimals": 18,
+      "chainId": 324,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/ZF/icon.png"
     },
     {
       "name": "Arken Finance",
