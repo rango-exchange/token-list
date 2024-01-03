@@ -1,0 +1,9 @@
+[
+  {
+    "name": "zkSwap Finance",
+    "address": "0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A",
+    "symbol": "ZF",
+    "decimals": 18,
+    "chainId": 324
+  }
+]
