@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2024-01-03T08:18:30.192Z",
+  "timestamp": "2024-01-03T08:19:54.706Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -120,7 +120,7 @@
       "symbol": "ZF",
       "decimals": 18,
       "chainId": 324,
-      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/ZF/icon.png"
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/zf/icon.png"
     },
     {
       "name": "Arken Finance",
