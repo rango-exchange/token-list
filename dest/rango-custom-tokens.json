@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2024-01-03T08:19:54.706Z",
+  "timestamp": "2024-02-26T09:53:59.984Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -25,6 +25,14 @@
       "chainId": 1,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/rocketx/icon.png"
+    },
+    {
+      "name": "Luna Inu",
+      "symbol": "LINU",
+      "address": "0x78132543d8e20d2417d8a07d9ae199d458a0d581",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/luna_inu/icon.png"
     },
     {
       "name": "Flash 3.0",
