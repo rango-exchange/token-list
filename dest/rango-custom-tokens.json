@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2024-02-26T09:53:59.984Z",
+  "timestamp": "2024-04-16T14:06:44.304Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -49,6 +49,14 @@
       "decimals": 18,
       "chainId": 10,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/bifi/icon.png"
+    },
+    {
+      "name": "Wild Goat Coin",
+      "symbol": "WGC",
+      "address": "0x382586651f043cBdEc7bb586e367D77B26D7d149",
+      "chainId": 37,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/wgc/icon.png"
     },
     {
       "name": "Onyxcoin",
