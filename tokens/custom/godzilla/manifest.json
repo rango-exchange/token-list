@@ -1,9 +1,9 @@
 [
   {
-    "name": "Godzilla Project Token",
-    "symbol": "GODZ",
-    "address": "0xae7cf30e14e132e43689ebe4fab49706c59a0bf7",
-    "chainId": 56,
-    "decimals": 9
+    "name": "Coffee",
+    "symbol": "COFFEE",
+    "address": "85Yf3z6zwgLGQLfxww7KoHGw4sHpx4iki2P1Ci7k7gqZ",
+    "chainId": 101,
+    "decimals": 6
   }
 ]
