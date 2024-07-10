@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2024-06-29T07:51:44.345Z",
+  "timestamp": "2024-07-10T07:27:35.608Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -113,6 +113,14 @@
       "chainId": 88,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/arken/icon.png"
+    },
+    {
+      "name": "Coffee",
+      "symbol": "COFFEE",
+      "address": "85Yf3z6zwgLGQLfxww7KoHGw4sHpx4iki2P1Ci7k7gqZ",
+      "chainId": 101,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/coffee/icon.png"
     },
     {
       "name": "Rocket Vault RocketX",
