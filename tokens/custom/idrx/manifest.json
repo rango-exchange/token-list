@@ -1,0 +1,16 @@
+[
+  {
+    "name": "IDRX",
+    "symbol": "IDRX",
+    "address": "0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC",
+    "chainId": 56,
+    "decimals": 0
+  },
+  {
+    "name": "IDRX",
+    "symbol": "IDRX",
+    "address": "0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC",
+    "chainId": 137,
+    "decimals": 0
+  }
+]
