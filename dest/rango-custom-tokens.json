@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2024-07-23T11:26:14.684Z",
+  "timestamp": "2024-07-29T10:39:51.835Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -91,6 +91,22 @@
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/rocketx/icon.png"
     },
     {
+      "name": "Nusa Finance",
+      "symbol": "NUSA",
+      "address": "0xe11F1D5EEE6BE945BeE3fa20dBF46FeBBC9F4A19",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/nusa/icon.png"
+    },
+    {
+      "name": "IDRX",
+      "symbol": "IDRX",
+      "address": "0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC",
+      "chainId": 56,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/idrx/icon.png"
+    },
+    {
       "name": "Godzilla Project Token",
       "symbol": "GODZ",
       "address": "0xae7cf30e14e132e43689ebe4fab49706c59a0bf7",
@@ -153,6 +169,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/kaxaa/icon.png"
+    },
+    {
+      "name": "IDRX",
+      "symbol": "IDRX",
+      "address": "0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC",
+      "chainId": 137,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/idrx/icon.png"
     },
     {
       "name": "zkSwap Finance",
