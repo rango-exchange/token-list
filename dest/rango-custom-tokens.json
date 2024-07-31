@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2024-07-29T10:39:51.835Z",
+  "timestamp": "2024-07-31T12:32:43.121Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -185,6 +185,14 @@
       "decimals": 18,
       "chainId": 324,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/zf/icon.png"
+    },
+    {
+      "name": "RealGOAT",
+      "symbol": "RGOAT",
+      "address": "0xF0268c5F9aA95Baf5C25D646AAbB900Ac12F0800",
+      "chainId": 8453,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/rgoat/icon.png"
     },
     {
       "name": "Arken Finance",
