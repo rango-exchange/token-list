@@ -5,5 +5,19 @@
     "address": "0xC9f5955f6dA20e44A068f3d58FB2404f56f9a6f2",
     "chainId": 56,
     "decimals": 18
+  },
+  {
+    "name": "USDFI",
+    "symbol": "USDFI",
+    "address": "0x249c48e22E95514Ca975De31f473F30c2f3C0916",
+    "chainId": 42161,
+    "decimals": 18
+  },
+  {
+    "name": "USDFI",
+    "symbol": "USDFI",
+    "address": "0xa7a0B3Fe94121E366D774d60D075F6386F750884",
+    "chainId": 1,
+    "decimals": 18
   }
 ]
