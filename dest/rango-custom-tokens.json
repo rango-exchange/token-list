@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2024-07-31T12:32:43.121Z",
+  "timestamp": "2024-09-22T09:10:00.318Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -17,6 +17,22 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/xcn/icon.png"
+    },
+    {
+      "name": "USDFI",
+      "symbol": "USDFI",
+      "address": "0xa7a0B3Fe94121E366D774d60D075F6386F750884",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/usdfi/icon.png"
+    },
+    {
+      "name": "STABLE",
+      "symbol": "STABLE",
+      "address": "0x60b9C41d99FE3Eb64Ecc1344baD31D87f1bceD6D",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/stable/icon.png"
     },
     {
       "name": "Rocket Vault RocketX",
@@ -193,6 +209,22 @@
       "chainId": 8453,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/rgoat/icon.png"
+    },
+    {
+      "name": "USDFI",
+      "symbol": "USDFI",
+      "address": "0x249c48e22E95514Ca975De31f473F30c2f3C0916",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/usdfi/icon.png"
+    },
+    {
+      "name": "STABLE",
+      "symbol": "STABLE",
+      "address": "0x666966Ef3925B1c92fa355FDA9722899f3e73451",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/stable/icon.png"
     },
     {
       "name": "Arken Finance",
