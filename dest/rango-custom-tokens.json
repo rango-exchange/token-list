@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2024-09-25T11:02:58.205Z",
+  "timestamp": "2024-09-29T11:34:52.445Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -57,6 +57,14 @@
       "chainId": 1,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/flash/icon.png"
+    },
+    {
+      "name": "Filter AI",
+      "symbol": "FILTER",
+      "address": "0xeA4170A365952c666A9f34950771E51841732de9",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/filter/icon.png"
     },
     {
       "name": "BIFI",
