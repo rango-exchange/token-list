@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2024-09-29T11:34:52.445Z",
+  "timestamp": "2024-10-12T13:47:46.123Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -241,6 +241,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/arken/icon.png"
+    },
+    {
+      "name": "alXAI",
+      "address": "0x4ac623237de0aa622b4fdf4da63cf97216371acf",
+      "symbol": "alXAI",
+      "decimals": 18,
+      "chainId": 42161,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/al_xai/icon.png"
     },
     {
       "name": "LAMA",
