@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2024-10-12T13:47:46.123Z",
+  "timestamp": "2024-10-14T17:15:17.273Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -161,6 +161,14 @@
       "chainId": 101,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/wewe/icon.png"
+    },
+    {
+      "name": "DORITO",
+      "symbol": "EL DORITO",
+      "address": "FgWto1nfArQTpg3o74sYkti753caPfHNXHG8CkedDpMg",
+      "chainId": 101,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/dorito/icon.png"
     },
     {
       "name": "DMAGA",
