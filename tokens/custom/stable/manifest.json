@@ -2,8 +2,22 @@
   {
     "name": "STABLE",
     "symbol": "STABLE",
-    "address": "0xa3870fbBeb730BA99e4107051612af3465CA9F5e",
+    "address": "0x8bF75bc68FD337dfd8186d731Df8b3C2CB14B9E6",
     "chainId": 56,
+    "decimals": 18
+  },
+  {
+    "name": "STABLE",
+    "symbol": "STABLE",
+    "address": "0x666966Ef3925B1c92fa355FDA9722899f3e73451",
+    "chainId": 42161,
+    "decimals": 18
+  },
+  {
+    "name": "STABLE",
+    "symbol": "STABLE",
+    "address": "0x60b9C41d99FE3Eb64Ecc1344baD31D87f1bceD6D",
+    "chainId": 1,
     "decimals": 18
   }
 ]
