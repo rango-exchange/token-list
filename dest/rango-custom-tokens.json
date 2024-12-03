@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2024-11-09T10:51:11.743Z",
+  "timestamp": "2024-12-03T08:37:18.178Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -179,6 +179,14 @@
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/incel/icon.png"
     },
     {
+      "name": "GgsS Solana",
+      "symbol": "GgsS",
+      "address": "v62Jv9pwMTREWV9f6TetZfMafV254vo99p7HSF25BPr",
+      "chainId": 101,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/ggss/icon.png"
+    },
+    {
       "name": "DORITO",
       "symbol": "EL DORITO",
       "address": "FgWto1nfArQTpg3o74sYkti753caPfHNXHG8CkedDpMg",
@@ -217,6 +225,14 @@
       "chainId": 101,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/alp/icon.png"
+    },
+    {
+      "name": "Moooooo",
+      "symbol": "Moooooo",
+      "address": "6xaLVgohU7ztwWT6GJ7o2vVaVGjzHUJtrY742aBhpump",
+      "chainId": 101,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/Moooooo/icon.png"
     },
     {
       "name": "Rocket Vault RocketX",
