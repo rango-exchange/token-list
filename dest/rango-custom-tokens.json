@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2024-12-03T08:37:18.178Z",
+  "timestamp": "2024-12-09T13:06:40.685Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -305,6 +305,14 @@
       "decimals": 18,
       "chainId": 42161,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/al_xai/icon.png"
+    },
+    {
+      "name": "Yeet the Yeti",
+      "address": "0x2dC45B5377739aa47E1162F42ca591c1688BC647",
+      "symbol": "YEET",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/yeet/icon.png"
     },
     {
       "name": "LAMA",
