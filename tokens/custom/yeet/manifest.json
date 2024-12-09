@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Yeet the Yeti",
+    "address": "0x2dC45B5377739aa47E1162F42ca591c1688BC647",
+    "symbol": "YEET",
+    "decimals": 18,
+    "chainId": 43114
+  }
+]
