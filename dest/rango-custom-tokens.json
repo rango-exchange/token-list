@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2024-12-09T13:06:40.685Z",
+  "timestamp": "2025-01-13T09:05:48.251Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -171,6 +171,14 @@
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/kween/icon.png"
     },
     {
+      "name": "J1T.FYI",
+      "address": "HAqD46mR4LgY3aJiMZSabfefZoysG3Uuj6wn2ZKYE14v",
+      "symbol": "J1TFYI",
+      "decimals": 9,
+      "chainId": 101,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/j1tfyi/icon.png"
+    },
+    {
       "name": "INCEL",
       "symbol": "INCEL",
       "address": "GACL2mEL9BR4baJBbYWfNKa5mxBYXRdU4ZthedKcVkx1",
@@ -273,6 +281,14 @@
       "chainId": 8453,
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/rgoat/icon.png"
+    },
+    {
+      "name": "MikeAI",
+      "symbol": "WAZ",
+      "address": "0x5efc4446e1d772428adbd6053a0421ca7b3ed85a",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/MikeAI/icon.png"
     },
     {
       "name": "USDFI",
