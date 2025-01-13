@@ -1,9 +1,9 @@
-{
+[
+  {
     "name": "MikeAI",
     "symbol": "WAZ",
     "address": "0x5efc4446e1d772428adbd6053a0421ca7b3ed85a",
     "chainId": 8453,
-    "decimals": 18,
-    "description": "WAZ delivers AI modules and memes to base.",
-    "website": "https://mikeai.org/"
-}
+    "decimals": 18
+  }
+]
