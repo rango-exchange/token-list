@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2025-01-13T09:05:48.251Z",
+  "timestamp": "2025-06-25T10:23:14.079Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -73,6 +73,14 @@
       "decimals": 18,
       "chainId": 10,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/bifi/icon.png"
+    },
+    {
+      "name": "crow with knife",
+      "address": "0xcCcCcCcCdbEC186DC426F8B5628AF94737dF0E60",
+      "symbol": "CAW",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/caw/icon.png"
     },
     {
       "name": "Wild Goat Coin",
