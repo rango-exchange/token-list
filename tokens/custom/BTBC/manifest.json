@@ -1,0 +1,9 @@
+[
+  {
+    "name": "BTBC",
+    "symbol": "BTBC",
+    "address": "0x93d48b9343b68920bb3b274d325b2628e45f916b",
+    "chainId": 56,
+    "decimals": 18
+  }
+]
