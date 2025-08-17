@@ -1,0 +1,8 @@
+{
+  "chainId": "solana",
+  "address": "BX5ogsvmzdoLwXyyDP42NiFYwysUKFDUVbYWon9NnH6C",
+  "name": "Wrapped USDT",
+  "symbol": "wUSDT",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/mathez1/token-list/main/tokens/custom/wusdt/logo.png"
+}
