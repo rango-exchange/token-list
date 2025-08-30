@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2025-07-23T19:51:25.064Z",
+  "timestamp": "2025-08-30T06:49:44.396Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -65,6 +65,14 @@
       "chainId": 1,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/filter/icon.png"
+    },
+    {
+      "name": "ARC",
+      "symbol": "ARC",
+      "address": "0x672fdBA7055bddFa8fD6bD45B1455cE5eB97f499",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/arc/icon.png"
     },
     {
       "name": "BIFI",
@@ -289,6 +297,14 @@
       "decimals": 18,
       "chainId": 324,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/zf/icon.png"
+    },
+    {
+      "name": "Stable Coin",
+      "symbol": "SBC",
+      "address": "0xfdcc3dd6671eab0709a4c0f3f53de9a333d80798",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/sbc/icon.png"
     },
     {
       "name": "RealGOAT",
