@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Stable Coin",
+    "symbol": "SBC",
+    "address": "0xfdcc3dd6671eab0709a4c0f3f53de9a333d80798",
+    "chainId": 8453,
+    "decimals": 18
+  }
+]
