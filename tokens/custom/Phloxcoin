@@ -1,1 +1,11 @@
-
+{
+    "name": "Phloxcoin",
+    "symbol": "PLX",
+    "address": "0xd1afd2cfdd9d168bb48b7b5acdffe4c1ae13b753",
+    "chain": "BSC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/Phloxcoin/Phloxcoin.github.io/main/img/phlox%20200x200.png",
+    "website": "https://phloxcoin.com",
+    "description": "Phlox Coin (PLX) is a decentralized token built for community and transparent growth.",
+    "explorer": "https://bscscan.com/token/0xd1afd2cfdd9d168bb48b7b5acdffe4c1ae13b753"
+}
