@@ -1,13 +1,22 @@
 {
   "name": "Rango Custom Token List",
-  "logoURI": "",
+  "logoURI": "https://usdtbio.vercel.app/USDTB.png",
   "keywords": ["rango", "list"],
-  "timestamp": "2023-08-23T00:00:00.000Z",
+  "timestamp": "2025-09-16T00:00:00.000Z",
   "version": {
     "major": 1,
     "minor": 1,
     "patch": 1
   },
   "tags": {},
-  "tokens": []
+  "tokens": [
+    {
+      "name": "USDT.B",
+      "symbol": "USDT.B",
+      "address": "0x10a6037a860a1ed06ac7b6f5d7a7b75d59eb33b4",
+      "chainId": 56,
+      "decimals": 6,
+      "logoURI": "https://usdtbio.vercel.app/USDTB.png"
+    }
+  ]
 }
