@@ -2,7 +2,7 @@
   {
     "name": "Rujira",
     "symbol": "RUJI",
-    "address": "x/ruji",
+    "address": "THOR.RUJI",
     "chainId": "thorchain-1",
     "decimals": 8
   }
