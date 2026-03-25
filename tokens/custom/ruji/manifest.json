@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Rujira",
+    "symbol": "RUJI",
+    "address": "x/ruji",
+    "chainId": "thorchain-1",
+    "decimals": 8
+  }
+]
