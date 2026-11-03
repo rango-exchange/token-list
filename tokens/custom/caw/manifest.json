@@ -5,5 +5,12 @@
     "symbol": "CAW",
     "chainId": 25,
     "decimals": 18
+  },
+  {
+    "name": "crow with knife",
+    "address": "0x777777783478dAdf54678d1D92DaD3fB5Bd42Eb2",
+    "symbol": "CAW",
+    "chainId": 4663,
+    "decimals": 18
   }
 ]
