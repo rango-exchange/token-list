@@ -1,0 +1,30 @@
+[
+  {
+    "name": "CAD Coin",
+    "symbol": "CADC",
+    "address": "0x49A6F6aeAB68eA001bEaa4815186eb22FBDcCF2A",
+    "chainId": 1,
+    "decimals": 6
+  },
+  {
+    "name": "CAD Coin",
+    "symbol": "CADC",
+    "address": "0x5e63E9C06c3F2c779EF29a8071F94F5a724eB5e4",
+    "chainId": 8453,
+    "decimals": 6
+  },
+  {
+    "name": "CAD Coin",
+    "symbol": "CADC",
+    "address": "0x74D9423a2886618522F7C992Edf647ea707A38eb",
+    "chainId": 137,
+    "decimals": 6
+  },
+  {
+    "name": "CAD Coin",
+    "symbol": "CADC",
+    "address": "52spLAAFjKMwhNJ3TL2PUAUGYGgXsbvipP4whRtBp82S",
+    "chainId": 101,
+    "decimals": 6
+  }
+]
