@@ -66,5 +66,9 @@
   {
     "name": "Solana Token List",
     "uri": "https://cdn.jsdelivr.net/gh/solana-labs/token-list@main/src/tokens/solana.tokenlist.json"
+  },
+  {
+    "name": "LXON Network Token List",
+    "uri": "https://www.lxon.in/lxon-token-list.json"
   }
 ]
