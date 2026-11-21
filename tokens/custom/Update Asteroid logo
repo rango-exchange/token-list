@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Asteroid",
+    "symbol": "ASTEROID",
+    "address": "0xAFF2565091E7207191dBe340B8528D02FA78d044",
+    "image link": "https://i.ibb.co/whqGJtCP/LOGOASTEROID2x-1-4.png",
+    "chainId": 1,
+    "decimals": 18
+  }
+]
