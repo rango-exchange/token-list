@@ -2,7 +2,7 @@
   "name": "Rango Custom Token List",
   "logoURI": "",
   "keywords": ["rango", "list"],
-  "timestamp": "2026-11-21T11:51:01.272Z",
+  "timestamp": "2026-11-21T11:56:51.705Z",
   "version": {
     "major": 1,
     "minor": 1,
@@ -305,6 +305,14 @@
       "decimals": 18,
       "chainId": 324,
       "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/zf/icon.png"
+    },
+    {
+      "name": "crow with knife",
+      "address": "0x777777783478dAdf54678d1D92DaD3fB5Bd42Eb2",
+      "symbol": "CAW",
+      "chainId": 4663,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rango-exchange/rango-token-list/main/tokens/custom/caw/icon.png"
     },
     {
       "name": "Stable Coin",
