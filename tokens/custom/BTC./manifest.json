@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Bitcoin.",
+    "symbol": "BTC.",
+    "address": "0xe1567A594c20EFbFF1e3956f335e52Ea18D84C0d",
+    "chainId": 56,
+    "decimals": 18
+  }
+]
